@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+- My name is Jack
+- I've never really used Github other than for mods
+- I hope you're having a good day
